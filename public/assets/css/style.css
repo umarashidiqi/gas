@@ -158,7 +158,7 @@ h6 {
 .navbar .active,
 .navbar .active:focus,
 .navbar li:hover>a {
-  color: #104b97;
+  color: #e67e22;
 }
 
 .navbar .getstarted,
@@ -174,7 +174,7 @@ h6 {
 
 .navbar .getstarted:hover,
 .navbar .getstarted:focus:hover {
-  background: #748ec6;
+  background: #e67e22;
   color: #fff;
 }
 
@@ -1095,11 +1095,10 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: #fff;
   padding: 0 0 30px 0;
-  color: #47536e;
+  color: #104b97;
   font-size: 14px;
-  background: #eff2f8;
+  background: #f1c40f;
 }
 
 #footer .footer-newsletter {
@@ -1230,7 +1229,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #104b97;
+  background: #f1c40f;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
